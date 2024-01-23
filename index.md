@@ -6,4 +6,4 @@ title: Welcome to my page
 
 I'm very much excited to try this out.
 
-[my first post]({% post_url 2010-07-21-blog-post %})
+[my first post]({% post_url 2024-04-24-blog-post %})
