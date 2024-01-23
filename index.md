@@ -6,4 +6,4 @@ title: Welcome to my page
 
 I'm very much excited to try this out.
 
-<a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
+[my first post]({% post_url 2010-07-21-blog-post %})
