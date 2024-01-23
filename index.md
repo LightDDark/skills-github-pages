@@ -6,4 +6,4 @@ title: Welcome to my page
 
 I'm very much excited to try this out.
 
-<a href="{{ site.posts[0].url }}">{{ post.title }}</a>
+<a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a>
